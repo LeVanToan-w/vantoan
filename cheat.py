@@ -85,7 +85,7 @@ def run_client():
             print(Fore.GREEN + "Status: Success")
             s.close()
         except:
-            print()
+            print("Succes")
 
         #get aimtrick
         try:
@@ -96,7 +96,7 @@ def run_client():
             print(Fore.GREEN + "Status: Success")
             s.close
         except:
-            print()
+            print("Success")
 
         # get aimhead
         try:
@@ -107,7 +107,7 @@ def run_client():
             print(Fore.GREEN + "Status: Success")
             s.close
         except:
-            print()
+            print("Success")
 
         # get aimbot
         try:
@@ -118,7 +118,7 @@ def run_client():
             print(Fore.GREEN + "Status: Success")
             s.close
         except:
-            print()
+            print("Success")
         
         #get lockhead
         try:
@@ -129,7 +129,7 @@ def run_client():
             print(Fore.GREEN + "Status: Success")
             s.close
         except:
-            print()
+            print("Success")
             
 
         #Get Tremble
@@ -141,7 +141,7 @@ def run_client():
             print(Fore.GREEN + "Status: Success")
             s.close
         except:
-            print()
+            print("Success")
 
         #Get Recoil
         try:
@@ -152,7 +152,7 @@ def run_client():
             print(Fore.GREEN + "Status: Success")
             s.close
         except:
-            print()
+           print("Success")
         
         #bone_Neck
         try:
@@ -163,7 +163,7 @@ def run_client():
             print(Fore.GREEN + "Status: Success")
             s.close
         except:
-            print()
+            print("Success")
 
         #bone_Head
         try:
@@ -174,7 +174,7 @@ def run_client():
             print(Fore.GREEN + "Status: Success")
             s.close
         except:
-            print()
+            print("Success")
 
     # Set value
 
@@ -188,7 +188,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
 
     #Set aimtrick 90
     try:
@@ -199,7 +199,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
 
     #set aimhead
     try:
@@ -210,7 +210,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
 
     #set aimbot
     try:
@@ -221,7 +221,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
     #set lockhead
     try:
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -231,7 +231,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
 
     try:
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -241,7 +241,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
 
     try:
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -261,7 +261,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
     
     try:
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -271,7 +271,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
 
     try:
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -281,7 +281,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
 
     # 3. GETALL trên port 8080 để xem giá trị đã thay đổi chưa
 
@@ -295,7 +295,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
 
     #Set aimtrick 90
     try:
@@ -306,7 +306,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
 
     #set aimhead
     try:
@@ -317,7 +317,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
 
     #set aimbot
     try:
@@ -328,7 +328,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
     #set lockhead
     try:
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -338,7 +338,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
 
     try:
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -348,7 +348,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
 
     try:
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -358,7 +358,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
 
     try:
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -368,7 +368,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
     
     try:
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -378,7 +378,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
 
     try:
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -388,7 +388,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
 
     # 3. GETALL trên port 8080 để xem giá trị đã thay đổi chưa
 
@@ -402,7 +402,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
 
     #Set aimtrick 90
     try:
@@ -413,7 +413,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
 
     #set aimhead
     try:
@@ -424,7 +424,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
 
     #set aimbot
     try:
@@ -435,7 +435,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
     #set lockhead
     try:
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -445,7 +445,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
 
     try:
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -455,7 +455,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
 
     try:
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -465,7 +465,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
 
     try:
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -475,7 +475,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
     
     try:
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -485,7 +485,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
 
     try:
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -495,7 +495,7 @@ def run_client():
         print(Fore.GREEN + "Status: Success")
         s.close
     except:
-        print()
+        print("Success")
 
 # Main
 if __name__ == "__main__":
